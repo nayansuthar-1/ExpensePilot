@@ -11,7 +11,7 @@ A modern Flutter-based Expense Tracker application with Firebase authentication 
 - 📈 Income vs Expense tracking
 - 🗂 User-based data isolation
 - 🌙 Dark mode support
-- 📄 PDF report export
+- 📄 PDF report export.
 - ☁️ Cloud Firestore backend
 - 🤖 AI-powered budgeting insights (if enabled)
 
